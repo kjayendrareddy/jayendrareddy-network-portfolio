@@ -62,5 +62,5 @@ Command support varies by switch model and software. Verify syntax before applyi
 - Router configuration
 - Switch configuration
 - Connectivity test results
-  ![Cisco VLAN Routing Lab Diagram](Cisco%20VLAN%20Routing%20Lab%20Diagram.png)
+ ![Cisco VLAN Routing Lab Diagram](Cisco%20VLAN%20Routing%20Lab%20Diagram.png)
 **Disclosure:** This is a lab template. Describe it as completed only after you build and test it.
