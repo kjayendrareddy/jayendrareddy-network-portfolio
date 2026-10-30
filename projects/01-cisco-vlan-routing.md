@@ -57,8 +57,10 @@ Command support varies by switch model and software. Verify syntax before applyi
 - No VLAN across uplink: check trunk mode and allowed VLAN list on both ends.
 - Gateway unreachable: check SVI/subinterface, IP addressing, and interface status.
 - Inter-VLAN ping fails: check routing and endpoint/firewall policy.
-
-## Evidence to add
-Add your own topology image, sanitized command output, and a short “issue → checks → root cause → fix → verification” record.
-
+## Evidence
+- Network topology diagram
+- Router configuration
+- Switch configuration
+- Connectivity test results
+  ![Cisco VLAN Routing Lab Diagram](Cisco%20VLAN%20Routing%20Lab%20Diagram.png)
 **Disclosure:** This is a lab template. Describe it as completed only after you build and test it.
